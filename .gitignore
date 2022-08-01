@@ -1,2 +1,12 @@
 
 *.json
+*.js
+node_modules/moment-timezone/index.d.ts
+node_modules/moment-timezone/.github/issue_template.md
+node_modules/moment-timezone/changelog.md
+node_modules/moment-timezone/LICENSE
+node_modules/moment-timezone/moment-timezone-utils.d.ts
+node_modules/moment-timezone/README.md
+node_modules/.package-lock.json
+node_modules/.package-lock.json
+node_modules/.package-lock.json
